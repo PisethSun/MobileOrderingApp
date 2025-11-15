@@ -17,7 +17,7 @@ font-family: "Smythe", system-ui;
 
 }
 
-.header{
+header{
   background-image: url('./images/burgers.jpg') ;
     height: 167px;
     width: 600px;
